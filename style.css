@@ -1,0 +1,16 @@
+.center{justify-items: center;
+    position: absolute;
+    right: 50%;
+    top: 20%;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+header{
+    position: relative;
+    left: 35%;;
+}
+.highlight{
+    background-color: yellow;
+}
+.error{
+    background-color: lightcoral;
+    border: red;
+}
